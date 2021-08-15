@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @wendi-omega0
-- 👀 I’m interested in analysis, graph theory, and sitcoms (making friendship bracelets, running, hitting the gym, eating super healthy.) 
-- 🌱 I’m currently learning C++  
+- 👀 I’m interested in analysis, graph theory
+- 👀 I am also interested in sitcoms, running, hitting the gym, eating super healthy, and watching How I met your Mother 
+- 🌱 I’m currently learning C++ and trying live like a turing machine
 - 📫 How to reach me: wendig@vt.edu
 
 <!---
