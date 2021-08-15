@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wendi-omega0
-- 👀 I’m interested in analysis, graph theory, and sitcoms 
+- 👀 I’m interested in analysis, graph theory, and sitcoms  
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: wendig@vt.edu
 
